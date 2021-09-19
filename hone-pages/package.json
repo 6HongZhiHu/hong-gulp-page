@@ -1,0 +1,39 @@
+{
+  "name": "hone-pages",
+  "version": "0.1.0",
+  "description": "Awesome node module",
+  "keywords": [
+    "hone-pages",
+    "zce"
+  ],
+  "homepage": "https://github.com/zce/hone-pages#readme",
+  "bugs": {
+    "url": "https://github.com/zce/hone-pages/issues"
+  },
+  "license": "MIT",
+  "author": "hzh",
+  "files": [
+    "lib"
+  ],
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zce/hone-pages.git"
+  },
+  "scripts": {
+    "lint": "standard --fix",
+    "test": "ava"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "ava": "^3.9.0",
+    "standard": "^14.3.4"
+  },
+  "engines": {
+    "node": ">=8"
+  }
+}

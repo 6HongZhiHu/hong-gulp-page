@@ -1,0 +1,11 @@
+{
+  "name": "gulp-dome-zdh",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "jQuery": "^1.7.4",
+    "vue-cli": "^2.9.6",
+    "zce-cli": "0.2.0"
+  }
+}
